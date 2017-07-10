@@ -3,4 +3,4 @@ used with the git trailhead
 
 
 I made a change!
-Branch 2 - will this merge?
+branch 1 and branch 2 are merged now. good.
