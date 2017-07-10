@@ -3,4 +3,4 @@ used with the git trailhead
 
 
 I made a change!
-Branch 1 change just for the larks
+branch 1 and branch 2 are merged now. good.
